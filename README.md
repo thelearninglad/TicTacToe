@@ -1,5 +1,9 @@
 # React + Vite
 
+App tutorial: [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
+Deployment tutorial: [How to deploy a Vite / React application to GitHub pages](https://www.youtube.com/watch?v=tg-Xgx-lqXM)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
